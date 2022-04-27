@@ -14,5 +14,5 @@ function draw(){
 }
 
 function back(){
-    window.location = "/index.html";
+    window.location = "class-131-pro/index.html";
 }
